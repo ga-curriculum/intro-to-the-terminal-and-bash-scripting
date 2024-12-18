@@ -11,7 +11,7 @@ When humans need to communicate with a computer, there are two main options:
 
 ### 1. Using a GUI (Graphical User Interface)
 
-The most familiar way to interact with a computer is through a Graphical User Interface (GUI). A GUI provides a visual representation of the files, applications, and data on your computer. For example, when you see icons on your desktop and click on them with your mouse cursor, you’re instructing the computer to open a file or run a program. This click-and-point interaction makes it easy for users to communicate with their computer without needing to type commands. It’s a friendly, intuitive way to interact.
+The most familiar way to interact with a computer is through a Graphical User Interface (GUI). A GUI provides a visual representation of the files, applications, and data on your computer. For example, when you see icons on your desktop and click on one with your cursor, you’re instructing the computer to open a file or run a program. This point-and-click interaction makes it easy for users to communicate with their computer without needing to type commands. It’s a friendly, intuitive way to interact.
 
 ### 2. Using a Terminal (Command Line Interface)
 
@@ -21,7 +21,11 @@ The terminal is known by various names—such as "shell," "terminal," or "CLI"�
 
 ## What does a terminal look like?
 
-Terminal applications vary by operating system. On macOS, there’s the `Terminal` app; on Windows, you have `CMD` or `PowerShell`; on Linux, you have various terminals like `GNOME` Terminal.
+Terminal applications vary by operating system.
+
+- On macOS, there’s the `Terminal` app
+- On Windows, you have `CMD` or `PowerShell`
+- On Linux, you have various terminals like `GNOME` Terminal
 
 All of these allow you to interact directly with your computer’s operating system through a text-based interface.
 
@@ -43,6 +47,6 @@ The **command line** often contains three key pieces of information:
 
 Shell environments can use different “languages” or shells for giving the system commands.
 
-The most common one is [**Bash**](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), short for “Bourne Again SHell.” Bash is widely used, reliable, and a great starting point for beginners. It’s essentially the language your terminal will “speak” as you type commands to navigate your system, run applications, and perform all sorts of tasks without ever clicking an icon.
+The most common one is [**Bash**](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), short for “Bourne Again SHell.” Bash is widely used, reliable, and a great starting point for beginners. It’s essentially the language your terminal will “speak” as you type commands to navigate your system, run applications, and perform all sorts of tasks without ever clicking an icon.
 
 In this lesson, we'll explore key Bash commands and concepts, building a solid foundation for working in the CLI.

@@ -5,7 +5,7 @@
 
 ## Setup
 
-## Open the terminal application
+### Open the terminal application
 
 How you open your terminal application will depend on the operating system on the machine you are using.
 
