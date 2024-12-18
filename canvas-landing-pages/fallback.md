@@ -14,7 +14,7 @@ In this module, students learn to use the terminal as a new way to communicate w
 | ------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------- |
 | [Setup](../setup/README.md)                                                                       |       5 min        | Set up the development environment.                                                               |
 | [What is the Terminal?](../what-is-the-terminal/README.md)                                        |       5 min        | explain the difference between GUI and CLI environments                                           |
-| [Navigating and Manipulating File systems](../navigating-and-manipulating-file-systems/README.md) |       20 min       | navigate directories and manipulate files and folders from the command line                       |
+| [Navigating and Manipulating File Systems](../navigating-and-manipulating-file-systems/README.md) |       20 min       | navigate directories and manipulate files and folders from the command line                       |
 | [Creating and Running Scripts](../creating-and-running-scripts/README.md)                         |       15 min       | construct basic Bash scripts, make them executable, and explain their purpose in automating tasks |
 | **Total content**                                                                                 |       45 min       |                                                                                                   |
 
