@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to the Terminal and Bash Scripting</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

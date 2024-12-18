@@ -1,29 +1,31 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to the Terminal and Bash Scripting</span>
   <span class="subhead">Setup</span>
 </h1>
 
 ## Setup
 
-tktk The below is a generic starting point for lecture setup. You may need to make adjustments to this.
+## Open the terminal application
 
-Open your Terminal application and navigate to your <code class="filepath">~/code/ga/lectures</code> directory:
+How you open your terminal application will depend on the operating system on the machine you are using.
 
-```bash
-cd ~/code/ga/lectures
-```
+### macOS
 
-Make a new directory called <code class="filepath">tktk-module-name</code>, then enter this directory:
+In macOS, use Spotlight to search for and open Terminal. Press `⌘ Command` + `Space` to open Spotlight and search for `Terminal`. Press `Enter` to open it.
 
-```bash
-mkdir tktk-module-name
-cd tktk-module-name
-```
+### Windows
 
-Open the contents of the directory in VS Code:
+Windows 11 comes with a built-in Terminal application for us to use.
 
-```bash
-code .
-```
+To launch the Terminal application, press the `Windows Key` to launch Windows Search and type `Terminal`, then select the Run as administrator option on the right. You will be prompted to allow elevated permissions - do so.
 
-tktk Are there more lecture setup steps? Don't forget to add them here.
+### Ubuntu
+
+Ubuntu is cool and has a built-in keyboard shortcut to launch the Terminal application: `Ctrl` + `Alt` + `T`.
+
+You can search for `Terminal` on your system and launch the Terminal app that way.
+
+A quick note on the Ubuntu Terminal - copying and pasting uses a different keyboard combination in the terminal.
+
+To copy from the Ubuntu terminal, use `Ctrl` + `Shift` + `C`. To paste text in the Ubuntu terminal, use `Ctrl` + `Shift` + `V`.
+

@@ -12,25 +12,32 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Intro to the Terminal and Bash Scripting"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "intro-to-the-terminal-and-bash-scripting"
   type = "Lesson"
 }
 
 courses {
+  new {
+    name = "mea"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.whatIsTheTerminal
+      mls.navigatingAndManipulatingFileSystems
+      mls.creatingAndRunningScripts
+    }
+  }
   new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.whatIsTheTerminal
+      mls.navigatingAndManipulatingFileSystems
+      mls.creatingAndRunningScripts
     }
   }
 }
