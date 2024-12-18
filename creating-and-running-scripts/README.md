@@ -88,7 +88,7 @@ To see the script in action:
 
 The terminal will display the text inside your script, just as if you typed all those commands manually.
 
-### Add More Interactivity
+### Add more interactivity
 
 Let’s make the script a bit more interactive. For example, you can prompt the user for their name and then print a personalized message.
 
