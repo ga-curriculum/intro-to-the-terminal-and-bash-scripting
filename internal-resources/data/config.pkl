@@ -20,6 +20,16 @@ repo {
 
 courses {
   new {
+    name = "apd"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.whatIsTheTerminal
+      mls.navigatingAndManipulatingFileSystems
+      mls.creatingAndRunningScripts
+    }
+  }
+  new {
     name = "mea"
     microlessons {
       // Add microlessons here, in the order they should be delivered
