@@ -29,9 +29,9 @@ In this module, students learn to use the terminal as a new way to communicate w
 
 ### Course landing pages
 
-- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/apd.html)
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/mea.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/fallback.html)
+- [APD - Advanced Python for Developers](https://ga-curriculum.github.io/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/apd.html)
+- [MEA - Modern Engineering](https://ga-curriculum.github.io/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/mea.html)
+- [Fallback](https://ga-curriculum.github.io/intro-to-the-terminal-and-bash-scripting/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -43,4 +43,4 @@ In this module, students learn to use the terminal as a new way to communicate w
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
